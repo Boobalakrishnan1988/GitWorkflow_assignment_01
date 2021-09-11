@@ -1,0 +1,12 @@
+C:\Boobalakrishnan\VisualStudio\BITS_Assignment\GitWorkflowDemo\GitWorkflowDemo\bin\Debug\netcoreapp3.1\GitWorkflowDemo.exe
+C:\Boobalakrishnan\VisualStudio\BITS_Assignment\GitWorkflowDemo\GitWorkflowDemo\bin\Debug\netcoreapp3.1\GitWorkflowDemo.deps.json
+C:\Boobalakrishnan\VisualStudio\BITS_Assignment\GitWorkflowDemo\GitWorkflowDemo\bin\Debug\netcoreapp3.1\GitWorkflowDemo.runtimeconfig.json
+C:\Boobalakrishnan\VisualStudio\BITS_Assignment\GitWorkflowDemo\GitWorkflowDemo\bin\Debug\netcoreapp3.1\GitWorkflowDemo.runtimeconfig.dev.json
+C:\Boobalakrishnan\VisualStudio\BITS_Assignment\GitWorkflowDemo\GitWorkflowDemo\bin\Debug\netcoreapp3.1\GitWorkflowDemo.dll
+C:\Boobalakrishnan\VisualStudio\BITS_Assignment\GitWorkflowDemo\GitWorkflowDemo\bin\Debug\netcoreapp3.1\GitWorkflowDemo.pdb
+C:\Boobalakrishnan\VisualStudio\BITS_Assignment\GitWorkflowDemo\GitWorkflowDemo\obj\Debug\netcoreapp3.1\GitWorkflowDemo.AssemblyInfoInputs.cache
+C:\Boobalakrishnan\VisualStudio\BITS_Assignment\GitWorkflowDemo\GitWorkflowDemo\obj\Debug\netcoreapp3.1\GitWorkflowDemo.AssemblyInfo.cs
+C:\Boobalakrishnan\VisualStudio\BITS_Assignment\GitWorkflowDemo\GitWorkflowDemo\obj\Debug\netcoreapp3.1\GitWorkflowDemo.csproj.CoreCompileInputs.cache
+C:\Boobalakrishnan\VisualStudio\BITS_Assignment\GitWorkflowDemo\GitWorkflowDemo\obj\Debug\netcoreapp3.1\GitWorkflowDemo.dll
+C:\Boobalakrishnan\VisualStudio\BITS_Assignment\GitWorkflowDemo\GitWorkflowDemo\obj\Debug\netcoreapp3.1\GitWorkflowDemo.pdb
+C:\Boobalakrishnan\VisualStudio\BITS_Assignment\GitWorkflowDemo\GitWorkflowDemo\obj\Debug\netcoreapp3.1\GitWorkflowDemo.genruntimeconfig.cache
