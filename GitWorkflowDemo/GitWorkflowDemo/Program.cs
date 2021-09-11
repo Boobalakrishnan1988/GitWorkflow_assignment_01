@@ -6,7 +6,7 @@ namespace GitWorkflowDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! - feature branch - Manager change 01");
+            Console.WriteLine("Hello World! - feature branch - collaborator - change 01");
         }
     }
 }
